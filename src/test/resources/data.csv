@@ -1,0 +1,8 @@
+Registered and Purchase Under Limit, 1500060, true, 450
+Registered And Border Purchase Under Limit, 1666660, true, 499
+Registered And Border Purchase Over Limit, 1666760, true, 500
+Registered And Purchase Over Limit, 1000000060, true, 500
+Not Registered And Purchase Under Limit, 1500060, false, 150
+Not Registered And Border Purchase Under Limit, 4999960, false, 499
+Not Registered And Border Purchase Over Limit, 5000060, false, 500
+Not Registered And Purchase Over Limit, 1000000060, false, 500
